@@ -27,17 +27,17 @@ var maxRows = 35;
 // * タイトル情報（編集可能。最後の行に”,”を付けないようにしてください）
 var int_Colspan = 3;
 var ary_TitleData = [
-  "Message",
-  "Friends",
-  "My Generation",
-  "Kizuna \"Bond\"",
-  "Kimi ni Todoke \"Reaching You\"",
-  "Kirameki no Kakera \"Pieces of Sparkles\"",
-  "Yakusoku \"Promise\"",
-  "My Road",
-  "Life Iro Asenai Hibi \"Unfading Days of Life\"",
-  "Story",
-  "Thank You",
+  "Message (2010)",
+  "Friends (2011)",
+  "My Generation (2012)",
+  "Kizuna \"Bond\" (2013)",
+  "Kimi ni Todoke \"Reaching You\" (2014)",
+  "Kirameki no Kakera \"Pieces of Sparkles\" (2015)",
+  "Yakusoku \"Promise\" (2016)",
+  "My Road (2017)",
+  "Life Iro Asenai Hibi \"Unfading Days of Life\" (2018)",
+  "Story (2019)",
+  "Thank You (2020)",
 ];
 
 // * キャラクター情報（編集可能。最後の行に”,”を付けないようにしてください）
