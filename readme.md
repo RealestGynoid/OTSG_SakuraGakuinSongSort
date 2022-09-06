@@ -1,3 +1,3 @@
-# Sakura Gakuin song sorter
+# One True Sakura Gakuin Server Song Sorter
 
-https://silly-programme.github.io/SGSongSort
+https://realestgynoid.github.io/OTSG_SakuraGakuinSongSort/
